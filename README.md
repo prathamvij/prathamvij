@@ -52,18 +52,6 @@ I enjoy building reliable systems, understanding how software works under the ho
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamvij&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamvij&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Currently Open To
 
 - Software Engineering Internships  
